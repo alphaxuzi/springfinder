@@ -24,6 +24,10 @@ code .
 ```
 npm install
 ```
+npm install react-slick --save
+```
+npm install slick-carousel --save
+
 
 3. **Run Dev Environment**
 ```
